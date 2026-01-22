@@ -1,4 +1,4 @@
-# Trial (5) Notebook
+# Education Analysis Notebook
 
 This notebook explores predictors of high school dropout rates using a small educational dataset. The goal was to understand which factors were most associated with students becoming at risk of dropping out.
 
@@ -16,7 +16,7 @@ Dependencies:
 Output:
 - The model identified several features that contributed to dropout risk, and the exploratory analysis helped illustrate how different variables relate to student outcomes.
 
-# Project 2: Amazon Book Sales Analysis
+# Amazon Book Sales Analysis Notebook
 
 This notebook analyzes Amazon book sales data to explore trends in pricing, genre popularity, and consumer reading patterns over multiple years.
 
