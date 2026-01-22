@@ -1,4 +1,4 @@
-# Education Analysis Notebook
+# Education Dropout Rates Notebook
 
 This notebook explores predictors of high school dropout rates using a small educational dataset. The goal was to understand which factors were most associated with students becoming at risk of dropping out.
 
