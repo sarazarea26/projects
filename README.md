@@ -8,7 +8,7 @@ Key methods:
 - Generating visualizations to interpret patterns and model behavior
 
 Dependencies:
-- Python 3.x
+- Python 3
 - pandas
 - matplotlib
 - scikit-learn
@@ -26,7 +26,7 @@ Key methods:
 - Comparison of genre performance and shifts in reader preferences
 
 Dependencies:
-- Python 3.x
+- Python 3
 - pandas
 - matplotlib
 - seaborn
@@ -36,4 +36,4 @@ Output:
 
 # Student Score Project Notebook 
 
-This notebook is a project in progress examining how different factors affect secondary-school aged students' performance on exams. 
+This notebook is a project in-progress examining how different factors affect secondary-school aged students' performance on exams. 
