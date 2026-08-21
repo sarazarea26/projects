@@ -33,7 +33,3 @@ Dependencies:
 
 Output:
 - The analysis reveals seasonal fluctuations in pricing and sales volume, as well as longer-term changes in genre popularity that align with broader shifts in consumer interest.
-
-# Student Score Project Notebook 
-
-This notebook is a project in-progress examining how different factors affect secondary-school aged students' performance on exams. 
